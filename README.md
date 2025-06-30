@@ -48,7 +48,7 @@ To create a professional and interactive sales dashboard that enables quick, dat
 I am passionate about turning data into actionable insights. 
 This project is part of my journey in mastering tools like **Power BI**, **Excel**, and **SQL** for business analytics.
 
-Let's connect on [LinkedIn](www.linkedin.com/in/mr-adarsh-pandey/) or reach out for collaborations!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/mr-adarsh-pandey/) or reach out for collaborations!
 
 ---
 
