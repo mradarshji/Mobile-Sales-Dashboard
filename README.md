@@ -6,9 +6,9 @@ This **Mobile Sales Dashboard** was created using **Power BI** to visualize and 
 
 ## 👉 Project Overview
 
-• Designed an interactive sales dashboard by integrating data through Power Query (ETL) and applying DAX formulas to track key metrics such as Total Sales, Quantity Sold, Transactions, and Average Sales.
-• Created slicers and filters to enable dynamic analysis based on city, brand, payment method, and customer ratings.
-• Visualized monthly and daily sales trends to support strategic decision-making and identify top-performing brands and product models.
+- Designed an interactive sales dashboard by integrating data through Power Query (ETL) and applying DAX formulas to track key metrics such as Total Sales, Quantity Sold, Transactions, and Average Sales.
+- Created slicers and filters to enable dynamic analysis based on city, brand, payment method, and customer ratings.
+- Visualized monthly and daily sales trends to support strategic decision-making and identify top-performing brands and product models.
 
 ## 🧠 Project Objective
 
