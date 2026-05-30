@@ -4,6 +4,12 @@ Welcome to my Data Analyst portfolio project!
 
 This **Mobile Sales Dashboard** was created using **Power BI** to visualize and analyze mobile phone sales data across various Indian cities. The goal was to derive key business insights from sales performance, customer preferences, and payment behavior.
 
+## 👉 Project Overview
+
+• Designed an interactive sales dashboard by integrating data through Power Query (ETL) and applying DAX formulas to track key metrics such as Total Sales, Quantity Sold, Transactions, and Average Sales.
+• Created slicers and filters to enable dynamic analysis based on city, brand, payment method, and customer ratings.
+• Visualized monthly and daily sales trends to support strategic decision-making and identify top-performing brands and product models.
+
 ## 🧠 Project Objective
 
 To create a professional and interactive sales dashboard that enables quick, data-driven decision-making by summarizing sales metrics such as:
